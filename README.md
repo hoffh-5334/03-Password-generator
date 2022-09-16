@@ -11,7 +11,7 @@ Screenshot of webpage
 
 ## Repo and Deployed Links
 Repository link: https://github.com/hoffh-5334/03-Password-generator
-Deployed link: 
+Deployed link: https://hoffh-5334.github.io/03-Password-generator/
 
 
 
